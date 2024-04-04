@@ -1,13 +1,23 @@
-<svg width="49" height="48" viewBox="0 0 49 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_2516_1835)">
-<path d="M9.10377 22.9659C9.60681 15.3915 15.6913 9.32233 23.2734 8.84617V0.000732422C10.801 0.492252 0.774809 10.4993 0.256409 22.9659H9.10377Z" fill="white"/>
-<path d="M9.10371 48.0011C9.60675 40.4267 15.6912 34.3576 23.2733 33.8815V25.036C10.801 25.5275 0.774748 35.5346 0.256348 48.0011H9.10371Z" fill="white"/>
-<path d="M39.409 0.000976562C38.9059 7.57538 32.8215 13.6445 25.2394 14.1207V22.9661C37.7117 22.4746 47.7379 12.4675 48.2563 0.000976563L39.409 0.000976562Z" fill="white"/>
-<path d="M39.409 25.036C38.9059 32.6104 32.8215 38.6795 25.2394 39.1557V48.0011C37.7117 47.5096 47.7379 37.5026 48.2563 25.036H39.409Z" fill="white"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000117664224835910044470000010858380394821921718_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="125" y="125" width="250" height="250"/>
+	</defs>
+	<clipPath id="SVGID_00000085962381412558167630000014619559989215703457_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000085962381412558167630000014619559989215703457_);">
+		<path class="st1" d="M171.4,244.6c2.6-39.4,33.6-71.1,72.3-73.5V125c-63.6,2.6-114.8,54.7-117.4,119.6H171.4z"/>
+		<path class="st1" d="M171.4,375c2.6-39.4,33.6-71.1,72.3-73.5v-46.1C180.1,258,129,310.1,126.3,375H171.4z"/>
+		<path class="st1" d="M326.1,125c-2.6,39.4-33.6,71.1-72.3,73.5v46.1c63.6-2.6,114.8-54.7,117.4-119.6H326.1z"/>
+		<path class="st1" d="M326.1,255.4c-2.6,39.4-33.6,71.1-72.3,73.5V375c63.6-2.6,114.8-54.7,117.4-119.6H326.1z"/>
+	</g>
 </g>
-<defs>
-<clipPath id="clip0_2516_1835">
-<rect width="49" height="48.0003" fill="white" transform="translate(0 0.000732422)"/>
-</clipPath>
-</defs>
 </svg>
