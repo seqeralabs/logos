@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<style type="text/css">
-	.st0{clip-path:url(#SVGID_00000117664224835910044470000010858380394821921718_);}
-	.st1{fill:#FFFFFF;}
-</style>
-<g>
-	<defs>
-		<rect id="SVGID_1_" x="125" y="125" width="250" height="250"/>
-	</defs>
-	<clipPath id="SVGID_00000085962381412558167630000014619559989215703457_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g style="clip-path:url(#SVGID_00000085962381412558167630000014619559989215703457_);">
-		<path class="st1" d="M171.4,244.6c2.6-39.4,33.6-71.1,72.3-73.5V125c-63.6,2.6-114.8,54.7-117.4,119.6H171.4z"/>
-		<path class="st1" d="M171.4,375c2.6-39.4,33.6-71.1,72.3-73.5v-46.1C180.1,258,129,310.1,126.3,375H171.4z"/>
-		<path class="st1" d="M326.1,125c-2.6,39.4-33.6,71.1-72.3,73.5v46.1c63.6-2.6,114.8-54.7,117.4-119.6H326.1z"/>
-		<path class="st1" d="M326.1,255.4c-2.6,39.4-33.6,71.1-72.3,73.5V375c63.6-2.6,114.8-54.7,117.4-119.6H326.1z"/>
-	</g>
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_417_2385" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="37" y="37" width="76" height="76">
+<path d="M112.5 37.5H37.5V112.5H112.5V37.5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_417_2385)">
+<path d="M51.4199 73.38C52.1999 61.56 61.4999 52.05 73.1099 51.33V37.5C54.0299 38.28 38.6699 53.91 37.8899 73.38H51.4199Z" fill="white"/>
+<path d="M51.4199 112.499C52.1999 100.679 61.4999 91.1691 73.1099 90.4491V76.6191C54.0299 77.3991 38.6999 93.0291 37.8899 112.499H51.4199Z" fill="white"/>
+<path d="M97.8299 37.5C97.0499 49.32 87.7499 58.83 76.1399 59.55V73.38C95.2199 72.6 110.58 56.97 111.36 37.5H97.8299Z" fill="white"/>
+<path d="M97.8299 76.6191C97.0499 88.4391 87.7499 97.9491 76.1399 98.6691V112.499C95.2199 111.719 110.58 96.0891 111.36 76.6191H97.8299Z" fill="white"/>
 </g>
 </svg>
